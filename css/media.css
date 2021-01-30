@@ -1,0 +1,24 @@
+@media (max-width: 1400px) {
+
+}
+
+@media (max-width: 992px) {
+
+
+    .card-mini-info {
+        flex-direction: column;
+    }
+
+    .card-mini-info span {
+        padding: 0;
+        margin: 0;
+    }
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 540px) {
+
+}
